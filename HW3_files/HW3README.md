@@ -15,7 +15,7 @@
 <img width="3839" height="1893" alt="image" src="https://github.com/user-attachments/assets/e34ec57a-622d-4329-8de7-0389cb88e402" />
 
 ### Jenkinsfile place in:
-``HW3_files/Jenkinsfile``
+[HW3_files/Jenkinsfile](HW3_files/Jenkinsfile)
 
 ### Artifact place in:
 ``spring-boot-initial-0.0.1-SNAPSHOT_DeclaritivePipeline.jar``

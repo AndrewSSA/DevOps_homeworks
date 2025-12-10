@@ -26,6 +26,20 @@
 [HW3_files/spring-boot-initial-0.0.1-SNAPSHOT_Freestyle.jar](spring-boot-initial-0.0.1-SNAPSHOT_DeclaritivePipeline.jar)
 
 
+## Jenkins bot Task
+<img width="2560" height="1949" alt="image" src="https://github.com/user-attachments/assets/ef9c60b0-11c9-402d-a345-28b15c2cf422" />
+
+<img width="1181" height="1694" alt="image" src="https://github.com/user-attachments/assets/dbe17556-493d-4d3c-9ac3-14db8fcf36b7" />
+
+<img width="2949" height="490" alt="image" src="https://github.com/user-attachments/assets/18047957-30a8-4474-bba4-621609af70dc" />
+
+<img width="3317" height="844" alt="image" src="https://github.com/user-attachments/assets/7f3be77c-621b-49dc-bcf8-fbfbae6494ab" />
+
+
+### Jenkinsfile place in:
+[HW3_files/Jenkinsfile](Jenkinsfile)
+
+
 
                 
             

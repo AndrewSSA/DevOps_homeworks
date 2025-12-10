@@ -7,9 +7,13 @@
 <img width="3839" height="1894" alt="image" src="https://github.com/user-attachments/assets/ed2c9779-4764-4adb-8bfe-c908b70cc823" />
 
 Artifact place in
+
 ``HW3_files/FreeStyleArtifact``
 
-##Завдання з зірочкою 1 Jenkinsfile:
+##Task with * 1:
+<img width="3839" height="1893" alt="image" src="https://github.com/user-attachments/assets/e34ec57a-622d-4329-8de7-0389cb88e402" />
+
+Jenkinsfile place in:
 
 ``HW3_files/Jenkinsfile``
 

@@ -1,6 +1,6 @@
-#Tasks:
+# Tasks:
 
-##Jenkins install successfull:
+## Jenkins install successfull:
 
 <img width="3839" height="1901" alt="image" src="https://github.com/user-attachments/assets/4ff7b6cb-03a6-415a-8b42-cbd1d264f89b" />
 
@@ -8,17 +8,17 @@
 ##Frestyle project:
 <img width="3839" height="1894" alt="image" src="https://github.com/user-attachments/assets/ed2c9779-4764-4adb-8bfe-c908b70cc823" />
 
-Artifact place in
+### Artifact place in
 ``HW3_files/spring-boot-initial-0.0.1-SNAPSHOT_Freestyle.jar``
 
 
-##Task with * 1:
+## Task with * 1:
 <img width="3839" height="1893" alt="image" src="https://github.com/user-attachments/assets/e34ec57a-622d-4329-8de7-0389cb88e402" />
 
-Jenkinsfile place in:
+### Jenkinsfile place in:
 ``HW3_files/Jenkinsfile``
 
-Artifact place in:
+### Artifact place in:
 ``spring-boot-initial-0.0.1-SNAPSHOT_DeclaritivePipeline.jar``
 
 

@@ -36,3 +36,16 @@ systemd отримує інструкції з запуску nginx з файл�
 <img width="573" height="214" alt="image" src="https://github.com/user-attachments/assets/cc7132fa-e880-4999-9201-d6b6b1eea36e" />
 
 Можемо за допомогою дії ``reload`` в команді ``systemctl``, що змушує сервіс прочитати новий конфіг сервісу на відмінно від дії ``restart``  
+
+
+## Завдання 3( з зірочкою :) )
+<img width="608" height="186" alt="image" src="https://github.com/user-attachments/assets/bbc9dc9c-68b1-41b8-afe8-7f50b92015d9" />
+<img width="1263" height="404" alt="image" src="https://github.com/user-attachments/assets/696afdd1-f0bc-4fe5-b4aa-19fb9768c003" />
+
+Створили новий диск на 10Gb встановили йому точку монтування та поправили файл /etc/fstab для монтування нового при старті системи
+
+<img width="1919" height="742" alt="image" src="https://github.com/user-attachments/assets/89921cfa-6c53-4716-903e-5c6def8d3729" />
+<img width="1071" height="243" alt="image" src="https://github.com/user-attachments/assets/b7c19897-3846-418f-b99e-64109357e572" />
+
+
+MISSION COMPLETE

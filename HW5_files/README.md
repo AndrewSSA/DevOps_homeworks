@@ -18,7 +18,7 @@
 ### 2.1:
 <img width="1472" height="417" alt="image" src="https://github.com/user-attachments/assets/5b7a408a-f723-4bf9-bafb-47b4cb4deb70" />
 
-systemd отримує інструкції з запуску nginx з файлу ``/usr/lib/systemd/system/nginx.service``, також nginx керується конфігураційним файлом ``nginx.conf``(по замовчанню)
+nginx як процес керується файлом з файлу ``/usr/lib/systemd/system/nginx.service``, також nginx керується конфігураційним файлом ``nginx.conf``(по замовчанню)
 
 ### 2.2:
 <img width="865" height="377" alt="image" src="https://github.com/user-attachments/assets/cc80d4a1-8a74-4f54-abc6-7d8ac4dd2b75" />

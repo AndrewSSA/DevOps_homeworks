@@ -1,0 +1,13 @@
+[Unit]
+Description=Check connection to google.com on specified ports
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/checkcon.sh
+StandardOutput=append:/var/log/checkcon.log
+StandardError=append:/var/log/checkcon.log
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

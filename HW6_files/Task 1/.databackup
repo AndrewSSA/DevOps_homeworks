@@ -1,0 +1,7 @@
+#!/bin/bash
+SOURCE="/home/cub/data"
+DESTINATION="/home/cub/backup"
+DATE=$(date +%Y-%m-%d)
+FILENAME="backup_$DATE.tar.gz"
+mkdir -p "$DESTINATION"
+tar -czf "$DESTINATION/$FILENAME" "$SOURCE"

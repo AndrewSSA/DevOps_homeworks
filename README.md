@@ -1,7 +1,12 @@
 # DevOps_homeworks
-<img width="637" height="158" alt="Screenshot From 2026-03-08 12-49-05" src="https://github.com/user-attachments/assets/3d36f7d0-6438-4b2a-a8a8-6148bbfd7317" />
-<img width="637" height="271" alt="Screenshot From 2026-03-08 12-52-29" src="https://github.com/user-attachments/assets/c9562b09-a9f8-4602-a4ce-e89e51d11392" />
-<img width="637" height="271" alt="Screenshot From 2026-03-08 12-52-41" src="https://github.com/user-attachments/assets/295a215b-3df4-4818-9b79-af32b41e1729" />
-<img width="711" height="141" alt="Screenshot From 2026-03-08 12-54-05" src="https://github.com/user-attachments/assets/b37ddea9-e208-4054-94b2-414802658047" />
-<img width="711" height="157" alt="Screenshot From 2026-03-08 12-54-33" src="https://github.com/user-attachments/assets/e6d39899-5b0d-43e5-a9b2-ab2386041cf7" />
-<img width="711" height="168" alt="Screenshot From 2026-03-08 12-54-46" src="https://github.com/user-attachments/assets/7fa706e3-88e0-4222-a327-2894c55e739f" />
+## Використання протоколу TCP
+<img width="711" height="157" alt="Screenshot From 2026-03-08 12-54-33" src="https://github.com/user-attachments/assets/5fb632b7-6e45-4786-9cc0-1a337b61966d" />
+## Використання протоколу UDP
+<img width="637" height="271" alt="Screenshot From 2026-03-08 12-52-29" src="https://github.com/user-attachments/assets/cafae1e1-fd83-473f-8ecb-5cbad66f481a" />
+## Різниця у протоколах:
+### UDP:
+<img width="637" height="271" alt="Screenshot From 2026-03-08 12-52-41" src="https://github.com/user-attachments/assets/4edfb8b7-1872-47fb-a50a-0fc3f1087b2f" />
+### TCP:
+<img width="711" height="168" alt="Screenshot From 2026-03-08 12-54-46" src="https://github.com/user-attachments/assets/107a810f-f81b-49d4-9212-e73978cf09a5" />
+
+Як бачимо з викристанням UDP при закритті з'єднання на одному пристрої, з'єднання залишається активним на іншому, тоді як при TCP при розриві з'єднання на одному пристрої розривається з'єднання на іншому також. Це пов'язано з відмінністю в роботі протоколів, TCP використовує тристороннє рукостискання для перевірки активності з'єднання та для гарантії доставки повідомлення, тоді як UDP ні.
